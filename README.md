@@ -1,80 +1,128 @@
 <h1 align="center">Hi 👋, I'm Anuj Kathal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&color=00F7FF&center=true&vCenter=true&width=800&lines=Aspiring+Software+Developer;Learning+Modern+Technologies;Building+My+Developer+Journey;Consistency+%7C+Growth+%7C+Discipline" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=2800&color=00F7FF&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;Passionate+Tech+Learner;Building+Consistency+With+Code;Future+Full+Stack+Engineer;Learning+Something+New+Everyday" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Welcome%20To%20My%20GitHub&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Welcome%20To%20My%20Developer%20Space&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Developer%20Status-Growing-blue?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Current%20Focus-Learning-success?style=for-the-badge&logo=bookstack" />
-  <img src="https://img.shields.io/badge/Mindset-Never%20Stop%20Building-black?style=for-the-badge&logo=verizon" />
+  <img src="https://img.shields.io/badge/Status-Consistent%20Learner-blue?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Self%20Growth-success?style=for-the-badge&logo=bookstack" />
+  <img src="https://img.shields.io/badge/Goal-Becoming%20Industry%20Ready-black?style=for-the-badge&logo=codefactor" />
 </p>
 
 ---
 
-# ✨ About Me
+# 🌌 About Me
+
+<table>
+<tr>
+<td width="55%">
+
+### 👨‍💻 Who Am I?
+
+I am **Anuj Kathal**, a beginner developer with a deep interest in technology, software systems and continuous learning.
+
+I am currently focused on building my fundamentals stronger day by day — because I believe strong foundations create extraordinary developers.
+
+My journey in tech is driven by:
+
+- Curiosity to understand how things work
+- Passion to build digital solutions
+- Discipline to stay consistent
+- Patience to improve every day
+
+I am not chasing shortcuts.  
+I am building a long-term developer mindset.
+
+</td>
+
+<td width="45%">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Current Developer Mission
 
 ```yaml
-Name: Anuj Kathal
-Role: Beginner Developer
-Passion: Software Development & Technology
-Current Mission: Becoming better than yesterday
-Belief: Discipline creates excellence
+Learning Mode: ON
+Consistency Level: Daily Improvement
+Current Focus:
+  - Programming Concepts
+  - Web Development
+  - Git & GitHub
+  - Problem Solving
+  - Understanding Real Software
+Long Term Goal: Full Stack Development + Real Projects
 ```
 
-💻 I am currently focused on building a strong foundation in programming and software development.  
-🌱 Every day I learn something new, write better code, and understand systems more deeply.  
-🚀 My journey is centered around consistency, curiosity and practical growth.  
-⚡ I believe beginner is just a temporary stage — improvement is permanent.  
+---
+
+# 🧠 Developer Mindset
+
+> “Success in coding is not writing one brilliant program.  
+> Success is showing up every day until coding becomes your language.”
+
+I strongly believe that:
+
+✔ Every bug teaches something  
+✔ Every commit reflects discipline  
+✔ Every concept learned adds confidence  
+✔ Every small effort compounds into mastery  
 
 ---
 
-# 🧠 Developer Philosophy
-
-> "Great developers are not born by talent alone,  
-> they are built through repetition, mistakes, debugging and persistence."
-
-I am currently investing my time in:
-
-- Understanding programming logic
-- Learning development workflows
-- Practicing problem solving
-- Exploring real-world technologies
-- Becoming comfortable with code every single day
-
----
-
-# 🌐 Tech I'm Exploring
+# 🛠️ Technologies I'm Exploring
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,git,github,vscode,mysql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,c,cpp,mysql,git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 Current Learning Roadmap
+# 📍 Learning Roadmap
 
 ```text
-✔ Programming Fundamentals
-✔ Version Control & GitHub
-✔ Frontend Development
-✔ Backend Basics
-✔ Database Understanding
-✔ Problem Solving
-⬜ Real World Projects
-⬜ Open Source Contributions
-⬜ Advanced Development
+[✔] Programming Fundamentals
+[✔] Git & GitHub Workflow
+[✔] Frontend Basics
+[✔] Backend Understanding
+[✔] Database Concepts
+[✔] Problem Solving Practice
+[ ] Real World Application Building
+[ ] Open Source Contribution
+[ ] Deployment & Advanced Tools
 ```
 
 ---
 
-# 📊 GitHub Performance Dashboard
+# 📌 Currently Working On
+
+- 🌱 Strengthening coding logic
+- 📘 Learning industry development practices
+- 💻 Improving GitHub consistency
+- 🧩 Solving programming problems
+- ⚙️ Preparing myself for bigger future projects
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AnujKathal&theme=algolia&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics Dashboard
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=AnujKathal&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
@@ -91,7 +139,7 @@ I am currently investing my time in:
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnujKathal&theme=react-dark&hide_border=true&area=true"/>
@@ -99,40 +147,26 @@ I am currently investing my time in:
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnujKathal/AnujKathal/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/AnujKathal/AnujKathal/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
 
-# 🎯 Goals For 2026
+# 🎯 2026 Developer Goals
 
-- Build meaningful real-world projects
-- Strengthen DSA and logical thinking
-- Learn full stack development
-- Contribute regularly on GitHub
-- Collaborate with developers
-- Keep growing without excuses
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Say%20Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
+- Build practical beginner-friendly projects
+- Learn complete full stack workflow
+- Improve coding confidence
+- Maintain daily GitHub activity
+- Collaborate and grow with developers
+- Keep upgrading skills consistently
 
 ---
 
-# ☕ Developer Quote
+# 💬 Random Dev Quote
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
@@ -140,7 +174,25 @@ I am currently investing my time in:
 
 ---
 
-# 👀 Visitors Count
+# 🌐 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/AnujKathal">
+<img src="https://img.shields.io/badge/GitHub-Follow%20Journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+# 👀 Visitors Counter
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AnujKathal&style=for-the-badge&color=blueviolet"/>
@@ -152,4 +204,4 @@ I am currently investing my time in:
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
 
-<h3 align="center">⚡ Learning Today • Building Tomorrow • Growing Forever ⚡</h3>
+<h3 align="center">⚡ Consistency + Curiosity + Code = Growth ⚡</h3>
