@@ -117,7 +117,7 @@ I strongly believe that:
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnujKathal&theme=algolia&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=anujkathal46&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
 ---
