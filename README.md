@@ -145,13 +145,6 @@ I strongly believe that:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnujKathal&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AnujKathal/AnujKathal/output/github-contribution-grid-snake-dark.svg"/>
-</p>
 
 ---
 
