@@ -156,6 +156,7 @@ I strongly believe that:
 - Maintain daily GitHub activity
 - Collaborate and grow with developers
 - Keep upgrading skills consistently
+- New TO the Coding World
 
 ---
 
