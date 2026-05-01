@@ -230,6 +230,6 @@ Progress ████████████░░░░░░░░░░░�
 
 **⚡ "Consistency + Curiosity + Code = Growth" ⚡**
 
-*Made with ❤️ and lots of ☕ by Anuj Kathal*
+
 
 </div>
